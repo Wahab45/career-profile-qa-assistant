@@ -1,0 +1,25 @@
+SYNTHETIC SAMPLE PROFILE - all details below are fictional.
+
+Name: Alex Example
+Location: Sample City, Germany
+
+Career goal
+Junior IT Support Specialist with an interest in Linux system administration.
+
+Skills
+- Linux: basic user and group management, permissions, SSH, and systemd services
+- Networking: IPv4, DNS, DHCP, and basic troubleshooting
+- Scripting: beginner-level Python and Bash
+- Support: documenting incidents and explaining technical steps clearly
+
+Training and projects
+- Completed an introductory Linux administration course in 2025.
+- Built a small Ubuntu Server lab with SSH access and automated configuration.
+- Practised troubleshooting DNS and connectivity in a virtual network.
+
+Languages
+- English: professional working proficiency
+- German: B1
+
+This sample is fictional and is included only to demonstrate the application.
+
